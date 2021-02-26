@@ -1,0 +1,12 @@
+{
+  "name": "investingclub_mobile",
+  "displayName": "investingclub_mobile",
+  "expo": {
+    "name": "investingclub_mobile",
+    "slug": "investingclub_mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
